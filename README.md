@@ -1,4 +1,3 @@
-# Kubernetes
 # [Kubernetes](http://kubernetes.io)
 * [쿠버네티스 문서](https://kubernetes.io/ko/docs/home/)
 * [튜토리얼](https://kubernetes.io/ko/docs/tutorials/)
